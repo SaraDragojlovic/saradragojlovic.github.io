@@ -1,0 +1,91 @@
+:root{
+  --text-color: #fff;
+  --secondtext-color: #000;
+  --second-bg-color: #7BF351;
+}
+
+
+
+.naslov{
+  color: var(--second-bg-color);
+  text-align: center;
+}
+
+
+
+.card-title{
+  text-align: center;
+}
+.card-text{
+  text-align: center;
+}
+
+.tekst{
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 2%;
+}
+
+.tekst2{
+  text-align: left;
+  margin-top: 2%;
+  color: var(--text-color);
+}
+
+.kartica{
+  color: #fff;
+  background-color: #000;
+  
+  border-radius: 10%;
+}
+
+.opis{
+  background-color: var(--text-color);
+  margin-top: 7%;
+  margin-bottom: 5%;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.naslovPrijava{
+  color: var(--second-bg-color);
+  margin-left: 25%;
+  margin-top: 3%;
+  
+
+}
+
+.footer{
+  color: var(--secondtext-color);
+}
+
+.footer2{
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 1%;
+}
+
+.vebOpis{
+  background-color: var(--text-color);
+  margin-top: 25%;
+  margin-left: 150px;
+}
+
+.biznisOpis{
+  background-color: #D9D9D9;
+  margin-top: 15%;
+  margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
